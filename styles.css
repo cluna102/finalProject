@@ -1,0 +1,52 @@
+body{
+    padding: 5em;
+    background-color: #212422;
+    color: cornsilk;
+    font-size: 20px;
+    border-style: groove;
+    border-color: #639CBF;
+}
+
+h1,h2{
+    text-align: center;
+    font-family: Impact, sans-serif;
+    text-transform: uppercase;
+    color: #F2D98D;
+    font-weight: 50;
+    border-style: groove;
+
+}
+
+h1{
+    font-size: 70px;
+    border-style: groove;
+}
+
+.sketch-header{
+    color: #639CBF;
+    border-style: hidden;
+    
+
+}
+
+p{
+    width:750px;
+
+}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em;
+
+}
+
+img{
+    border-style: unset;
+    border-color: #639CBF;
+}
+.credits{font-size: 0.7em;
+    color: rgb(200,200,200);
+    
+
+}
